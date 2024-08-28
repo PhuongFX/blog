@@ -1,18 +1,18 @@
 ---
 layout: article
-title: Antarctica 0.2 Is Released
-abstract: Highlights in the second release of Antarctica
+title: 🎮GamerDNA! Is Released 
+abstract: Streamlit App_Machine Learning Tool To Predict Gaming Engagement Level
 categories: announcement
-tags: antarctica release-note
+tags: machine-learning webApp
 eyeCatcher: https://i.pinimg.com/originals/82/21/fc/8221fc6897d8824e9f4a612662a6f38e.jpg
 ---
 
-Months after the Antarctica 0.1, the second release of Antarctica is finally arrived. This update includes some minor changes in appearance, and some major functional enhancements:
-* Scrollable widget bar
-* Comment widget improvement
-* Related sites widget
-* Table of contents widget
-* Pinned post
-* Abstract/excerpt in preview
+Months after the Speech To Text & Translation on HF Spaces, the final release of GamerDNA! is finally arrived. This beta includes some minor changes in appearance, and some major functional enhancements:
+* Supports audio files and live recording 📻
+* Uses the OpenAI Whisper Base model for speech recognition 💬
+* Displays transcribed text in the app 📝
+* Allows you to copy and paste the transcribed text for further use 📋
+* Translates the transcribed text into multiple languages using the Google Madlad model 🌎
+* Further in-coming features 
 
-I hope you will enjoy this new release, and build awesome sites with it!
+I hope you will enjoy this new web app, and make use with it!
