@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Post without An Eyecatcher
-categories: demo
+categories: demo_
 tags: example
 ---
 
