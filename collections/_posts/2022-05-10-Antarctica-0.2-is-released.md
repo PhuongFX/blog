@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 🎮GamerDNA! Is Released 
-abstract: Streamlit App_Machine Learning Tool To Predict Gaming Engagement Level
+abstract: 1
 categories: announcement
 tags: antarctica release-note
 eyeCatcher: https://i.pinimg.com/originals/82/21/fc/8221fc6897d8824e9f4a612662a6f38e.jpg
