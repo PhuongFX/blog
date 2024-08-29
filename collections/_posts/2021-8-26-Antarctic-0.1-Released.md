@@ -1,7 +1,7 @@
 ---
 layout: article
-title: STT Translate & Transcribe! 0.1 Is Released
-abstract: My random thoughts on the first release of this Web app
+title: Antarctica 0.1 Is Released
+abstract: My random thoughts on the first release of this theme
 categories: announcement
 tags: antarctica release-note
 eyeCatcher: https://i.pinimg.com/originals/45/04/cd/4504cd3ce3839fe6830022c59c9bc302.jpg
