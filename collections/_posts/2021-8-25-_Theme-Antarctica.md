@@ -1,6 +1,6 @@
 ---
 layout: article
-title: _Theme Antarctica
+title: 🎮GamerDNA! Is Released
 abstract: _An overview of this theme, including highlights and instructions of use
 categories: _misc
 tags: _antarctica theme
