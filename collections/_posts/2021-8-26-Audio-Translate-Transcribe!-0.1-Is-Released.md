@@ -1,7 +1,7 @@
 ---
 layout: article
-title: STText & Translation Is Released
-abstract: My random thoughts on the first release of this AI Web-based App
+title: S-t-Text & Translation Is Released
+abstract: My random thoughts on the first release of this AI-Web-app
 categories: announcement
 tags: antarctica release-note
 eyeCatcher: https://i.pinimg.com/originals/45/04/cd/4504cd3ce3839fe6830022c59c9bc302.jpg
