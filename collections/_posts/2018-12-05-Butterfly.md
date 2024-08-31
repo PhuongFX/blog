@@ -2,7 +2,7 @@
 layout: article
 title: Winged Wonders
 abstract: MobileNetV3Large architecture Demonstration
-categories: Machine-Learning-Models
+categories: ML_models
 tags: example markdown
 eyeCatcher: https://w-dog.ru/wallpapers/15/12/517922191063240/led-arktika-toross-zima.jpg
 ---
