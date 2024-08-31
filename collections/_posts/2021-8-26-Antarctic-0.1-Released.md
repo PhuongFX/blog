@@ -1,13 +1,13 @@
 ---
 layout: article
-title: Antarctica 0.1 Is Released
-abstract: My random thoughts on the first release of this theme
+title: Audio Translate & Transcribe! 0.1 Is Released
+abstract: My random thoughts on the first release of this AI Web-based App
 categories: announcement
 tags: antarctica release-note
 eyeCatcher: https://i.pinimg.com/originals/45/04/cd/4504cd3ce3839fe6830022c59c9bc302.jpg
 ---
 
-In early this July I wanted to start a blog and chose Jekyll as the framework to begin with. After looking through several collections of Jekyll themes without satisfaction, I decided to build one by myself. Previously I have written UI for some personal projects from scratch, with little code being reused. Getting tired of repeating same task for each new projects, I planned to build an unified UI framework apply to all scenario. Through the development process I gradually recognized the original goal is rather impractical, and finally I got something quite different from my initial idea, that is [Glacial Design](https://github.com/SdtElectronics/GlacialDesign). Fortunately it is still a good framework for sites aggregating contents, and its first application is this Jekyll theme, [Antarctica](https://github.com/SdtElectronics/jekyll-theme-antarctica).
+In early this July I wanted to start an AI and chose HuggingFace Spaces as the framework to begin with. After looking through several collections of HF models , I decided to build one app by myself. Previously I have written UI for some personal projects from scratch, with little code being reused. Getting interested with taks in Natural Language Processing and Audio aspects, I planned to build an unified UI framework apply to all scenario. Through the development process I gradually recognized the important of auto-detection function of Language-Audio generation models, and finally I got an idea in my mind to which is a bit  different from other demos in HF, that is an app to help us detect somethings that audio said about, then conveniently it also translate them to help us understand [Audio_Transcribe_Translate](https://github.com/PhuongFX/Audio_Transcribe_Translate). Fortunately those intergrated models are still from now, and their application are on my HF Hub, [STT Translate & Transcribe](https://huggingface.co/spaces/PhuongPhan/Audio_Transcribe_Translate).
 
 
-As a new-born project it will inevitably have problems and defects. The development will be a progressive process and continuous effort will be devoted to improve the quality and add new features. If you found a bug or have features request, please don't hesitate to raise an issue, or even better if you want to create a PR, it is always welcomed!
+As a new-born project it will inevitably have problems and defects. The development will be a progressive process and continuous effort will be devoted to improve the quality and add new features. If you found a bug or have features request, please don't hesitate to raise an issue and let me know.
