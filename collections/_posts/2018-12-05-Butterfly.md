@@ -7,7 +7,7 @@ tags: example markdown
 eyeCatcher: https://w-dog.ru/wallpapers/15/12/517922191063240/led-arktika-toross-zima.jpg
 ---
 
-# Winged Wonders: A Deep Learning Approach to Butterfly Species Identification 🦋🌿
+# A Deep Learning Approach to Butterfly Species Identification 🦋🌿
 
 
 <div style="text-align: left;">
