@@ -4,7 +4,7 @@ title: 🦋Winged Wonders
 abstract: A Deep Learning Approach to Butterfly Species            Identification 🌿
 categories: MachineLearning
 tags: TensorFlow
-eyeCatcher: https://img.freepik.com/free-vector/indigo-painted-canvas_53876-81916.jpg
+eyeCatcher: https://img.freepik.com/free-photo/blue-white-brush-stroke-textured-background_53876-90040.jpg
 ---
 
 ---
