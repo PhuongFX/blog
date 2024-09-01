@@ -7,11 +7,11 @@ tags: example markdown
 eyeCatcher: https://w-dog.ru/wallpapers/15/12/517922191063240/led-arktika-toross-zima.jpg
 ---
 
-# Winged Wonders: A Deep Learning Approach to Butterfly Species Identification 🦋🌿
+# A Deep Learning Approach to Butterfly Species Identification 🦋🌿
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/PhuongFX/ButterFlySpace/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-2.x-green)](https://keras.io/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red)](https://opencv.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://github.com/PhuongFX/ButterFlySpace)
@@ -23,7 +23,7 @@ eyeCatcher: https://w-dog.ru/wallpapers/15/12/517922191063240/led-arktika-toross
 This project is all about using deep learning to classify images of butterflies into their respective species. The dataset is from Kaggle, which contains over 10,000 images of butterflies from 100 different species. 📸
 The images were collected from various sources, including field observations, museum collections, and online repositories.
 
-
+---
 ## `Dataset` 📊
 
 * **Dataset URL:** [🐛 Butterfly & Moths Image Classification 100 species](https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species)
