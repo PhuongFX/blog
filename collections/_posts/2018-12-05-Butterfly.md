@@ -9,14 +9,19 @@ eyeCatcher: https://w-dog.ru/wallpapers/15/12/517922191063240/led-arktika-toross
 
 # Winged Wonders: A Deep Learning Approach to Butterfly Species Identification 🦋🌿
 
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/PhuongFX/ButterFlySpace/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-2.x-green)](https://keras.io/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red)](https://opencv.org/)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://github.com/PhuongFX/ButterFlySpace)
-[![Dataset](https://img.shields.io/badge/Dataset-📊-red.svg)](https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species)
+
+<div style="text-align: left;">
   
+  <a href='https://github.com/PhuongFX/ButterFlySpace/blob/main/LICENSE'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/License-AGPL%203.0-blue.svg' alt='License: AGPL-3.0'></a>
+  <a href='https://www.python.org/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Python-3.x-blue' alt='Python'></a>
+  <a href='https://www.tensorflow.org/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/TensorFlow-2.x-orange' alt='TensorFlow'></a>
+  <a href='https://keras.io/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Keras-2.x-green' alt='Keras'></a>
+  <a href='https://opencv.org/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/OpenCV-4.x-red' alt='OpenCV'></a>
+  <a href='https://github.com/PhuongFX/ButterFlySpace'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg' alt='Open Source'></a>
+  <a href='https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Dataset-📊-red.svg' alt='Dataset'></a>
+  
+</div>
+        
 > Are you fascinated by the beautiful world of butterflies? 🦋 With over 20,000 known species, these delicate creatures have long been a subject of interest for entomologists and naturalists alike. However, accurate identification of butterfly species remains a significant challenge, hindering our understanding of their behavior, habitat, and conservation. 🌿
 
 ## `About`
