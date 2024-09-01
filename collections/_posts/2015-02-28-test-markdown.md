@@ -4,7 +4,7 @@ title: Test Markdown
 abstract: Demonstration of some features of Markdown
 categories: markdown
 tags: test
-eyeCatcher: https://img.freepik.com/free-photo/blue-white-brush-stroke-textured-background_53876-90040.jpg
+eyeCatcher: https://raw.githubusercontent.com/PhuongFX/jekyll-theme-antarctica/1/assets/img/89313.jpg
 ---
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
