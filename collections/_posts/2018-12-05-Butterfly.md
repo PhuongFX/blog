@@ -37,15 +37,13 @@ The images were collected from various sources, including field observations, mu
 | Validation | 500 |
 | Testing | 500 |
 
+---
 ## `Inspiration` 🌪️
 
 * Manual identification of butterfly species is a time-consuming and expertise-dependent process, prone to errors and inconsistencies. 📝
 * The lack of an efficient and accurate identification system hinders the study of butterfly populations, habitats, and behavior, ultimately affecting conservation efforts. 🌎
 * An automated system for butterfly species identification can have a profound impact on our understanding of these insects and their role in ecosystems. 🌟
-
-
-===========================================================================
-
+---
 ## `Methodology` 🔍
 
 > ### Requirements
