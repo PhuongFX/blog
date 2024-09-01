@@ -24,6 +24,7 @@ This project is all about using deep learning to classify images of butterflies 
 The images were collected from various sources, including field observations, museum collections, and online repositories.
 
 ---
+
 ## `Dataset` 📊
 
 * **Dataset URL:** [🐛 Butterfly & Moths Image Classification 100 species](https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species)
@@ -97,6 +98,8 @@ The model achieves a test accuracy of 0.96, which is a great result considering 
 * Kaggle dataset: 🐛 Butterfly & Moths Image Classification 100 species
 * TensorFlow and Keras libraries for deep learning
 * Matplotlib and Seaborn libraries for data visualization
+
+***
 
 ## `🙅‍♂️Disclaimer`
 
