@@ -24,12 +24,12 @@ eyeCatcher: https://w-dog.ru/wallpapers/15/12/517922191063240/led-arktika-toross
 
 > Are you fascinated by the beautiful world of butterflies? 🦋 With over 20,000 known species, these delicate creatures have long been a subject of interest for entomologists and naturalists alike. However, accurate identification of butterfly species remains a significant challenge, hindering our understanding of their behavior, habitat, and conservation. 🌿
 
-## `About`
+# `About`
 This project is all about using deep learning to classify images of butterflies into their respective species. The dataset is from Kaggle, which contains over 10,000 images of butterflies from 100 different species. 📸
 The images were collected from various sources, including field observations, museum collections, and online repositories.
 
 
-## `Dataset` 📊
+# `Dataset` 📊
 
 * **Dataset URL:** [🐛 Butterfly & Moths Image Classification 100 species](https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species)
 * **License:** CC0-1.0
@@ -42,7 +42,7 @@ The images were collected from various sources, including field observations, mu
 | Validation | 500 |
 | Testing | 500 |
 
-## `Inspiration` 🌪️
+# `Inspiration` 🌪️
 
 * Manual identification of butterfly species is a time-consuming and expertise-dependent process, prone to errors and inconsistencies. 📝
 * The lack of an efficient and accurate identification system hinders the study of butterfly populations, habitats, and behavior, ultimately affecting conservation efforts. 🌎
