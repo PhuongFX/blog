@@ -1,4 +1,13 @@
-# Winged Wonders: A Deep Learning Approach to Butterfly Species Identification 🦋🌿
+---
+layout: article
+title: Winged Wonders
+abstract: MobileNetV3Large architecture Demonstration
+categories: MachineLearning
+tags: example markdown
+eyeCatcher: https://w-dog.ru/wallpapers/15/12/517922191063240/led-arktika-toross-zima.jpg
+---
+
+# A Deep Learning Approach to Butterfly Species Identification 🦋🌿
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/PhuongFX/ButterFlySpace/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
