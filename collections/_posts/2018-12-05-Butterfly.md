@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Winged Wonders
 abstract: MobileNetV3Large architecture Demonstration
 categories: MachineLearning
