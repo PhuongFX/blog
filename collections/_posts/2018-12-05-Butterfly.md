@@ -7,7 +7,12 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red)](https://opencv.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://github.com/PhuongFX/ButterFlySpace)
 [![Dataset](https://img.shields.io/badge/Dataset-📊-red.svg)](https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species)
-  
+
+<div style="text-align: left;">
+  <a href='https://huggingface.co/PhuongPhan'><img style='display: inline-block; margin: 0; padding: 0;' src='https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-sm-dark.svg' alt='Follow me on HF'></a>
+  <a href='https://huggingface.co/Chunte'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white' alt='GitHub Pages'></a>
+</div>
+
 > Are you fascinated by the beautiful world of butterflies? 🦋 With over 20,000 known species, these delicate creatures have long been a subject of interest for entomologists and naturalists alike. However, accurate identification of butterfly species remains a significant challenge, hindering our understanding of their behavior, habitat, and conservation. 🌿
 
 ## `About`
