@@ -29,7 +29,6 @@ eyeCatcher: https://w-dog.ru/wallpapers/15/12/517922191063240/led-arktika-toross
 ---
 This project is all about using deep learning to classify images of butterflies into their respective species. The dataset is from Kaggle, which contains over 10,000 images of butterflies from 100 different species. 📸
 The images were collected from various sources, including field observations, museum collections, and online repositories.
-
 ## `Dataset` 📊
 ---
 * **Dataset URL:** [🐛 Butterfly & Moths Image Classification 100 species](https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species)
