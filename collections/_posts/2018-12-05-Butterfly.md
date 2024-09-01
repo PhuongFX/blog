@@ -10,8 +10,7 @@ eyeCatcher: https://w-dog.ru/wallpapers/15/12/517922191063240/led-arktika-toross
 # A Deep Learning Approach to Butterfly Species Identification 🦋🌿
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/PhuongFX/ButterFlySpace/blob/main/LICENSE)
-
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-2.x-green)](https://keras.io/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red)](https://opencv.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://github.com/PhuongFX/ButterFlySpace)
@@ -99,13 +98,13 @@ The model achieves a test accuracy of 0.96, which is a great result considering 
 * TensorFlow and Keras libraries for deep learning
 * Matplotlib and Seaborn libraries for data visualization
 
-***
-
+---
 ## `🙅‍♂️Disclaimer`
 
 > This project is licensed under AGPL-3.0 License and is for personal use only and should not be used for commercial purposes.
 The pre-trained model and may not always produce accurate results.
 
+---
 ## `Get Involved!` 😌
 This project demonstrates the potential of deep learning for butterfly species identification. 
 The model achieves high accuracy and can be used as a starting point for further research and development in this field. 
@@ -114,7 +113,8 @@ I hope you found this project informative and engaging! 😊
 If you're interested in collaborating and contributing to the project, please let me know! I'd love to hear from you.
 * [Follow me on GitHub](https://github.com/PhuongFX)
 * [Follow me on Hugging Face](https://huggingface.co/PhuongFX)
-
+  
+---
 ## `Getting Started` 🚀
 
 To get started with this project, you'll need to:
