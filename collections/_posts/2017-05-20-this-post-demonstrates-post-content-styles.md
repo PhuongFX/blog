@@ -3,7 +3,7 @@ layout: article
 title: "Post Content Styles Demonstration"
 abstract: Demonstration of some formats for a post
 categories: demo
-eyeCatcher: https://pbs.twimg.com/media/EyhcJUoWgAMAjvj.jpg
+eyeCatcher: https://img.freepik.com/free-vector/indigo-painted-canvas_53876-81916.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
