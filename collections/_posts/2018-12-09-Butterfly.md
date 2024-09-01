@@ -7,8 +7,6 @@ tags: MobileNetV3Large markdown
 eyeCatcher: https://w-dog.ru/wallpapers/15/12/517922191063240/led-arktika-toross-zima.jpg
 ---
 
----
-
 **A Deep Learning Approach to Butterfly Species Identification🦋🌿**
 =====================================================
 
