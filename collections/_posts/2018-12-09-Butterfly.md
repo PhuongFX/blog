@@ -3,7 +3,7 @@ layout: article
 title: 🦋Winged Wonders
 abstract: A Deep Learning Approach to Butterfly Species            Identification 🌿
 categories: MachineLearning
-tags: MobileNetV3Large markdown
+tags: TensorFlow
 eyeCatcher: https://w-dog.ru/wallpapers/15/12/517922191063240/led-arktika-toross-zima.jpg
 ---
 
