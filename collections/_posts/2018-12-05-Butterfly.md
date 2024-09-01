@@ -95,18 +95,20 @@ The model achieves a test accuracy of 0.96, which is a great result considering 
 
 ===========================================================================
 
-## `Acknowledgments` 🙏
+# `Acknowledgments` 🙏
 
 * Kaggle dataset: 🐛 Butterfly & Moths Image Classification 100 species
 * TensorFlow and Keras libraries for deep learning
 * Matplotlib and Seaborn libraries for data visualization
----
-## `🙅‍♂️Disclaimer`
+
+
+# `🙅‍♂️Disclaimer`
 
 > This project is licensed under AGPL-3.0 License and is for personal use only and should not be used for commercial purposes.
 The pre-trained model and may not always produce accurate results.
----
-## `Get Involved!` 😌
+
+
+# `Get Involved!` 😌
 This project demonstrates the potential of deep learning for butterfly species identification. 
 The model achieves high accuracy and can be used as a starting point for further research and development in this field. 
 
@@ -115,8 +117,8 @@ If you're interested in collaborating and contributing to the project, please le
 * [Follow me on GitHub](https://github.com/PhuongFX)
 * [Follow me on Hugging Face](https://huggingface.co/PhuongFX)
   
----
-## `Getting Started` 🚀
+
+# `Getting Started` 🚀
 
 To get started with this project, you'll need to:
 
