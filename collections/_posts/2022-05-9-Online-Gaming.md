@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 🎮Gaming Engagement Prediction
+title: Analyzing Gaming Behavior
 abstract: This project aims to predict the engagement level of gamers based on various factors such as age, gender, location, game genre, playtime hours, and more.
 categories: demo
 tags: test
