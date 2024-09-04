@@ -6,95 +6,110 @@ categories: demo
 eyeCatcher: https://img.freepik.com/free-vector/indigo-painted-canvas_53876-81916.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+**Clustering Connoisseurs: A Machine Learning Approach to Wine Classification 🍷**
+===========================================================
 
-## Some great heading (h2)
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+Are you curious about the science behind wine classification? Do you want to learn how machine learning can help us better understand the complex world of wine? Then you're in the right place! 🎉
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+> It's like trying to find the perfect wine to pair with your favorite dish, but instead of relying on personal taste, the machine help you to make the match! 🤖
 
-## Another great heading (h2)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/PhuongFX/ButterFlySpace/blob/main/LICENSE)
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0.2-gr.svg)](https://scikit-learn.org/stable/)
+[![Pandas](https://img.shields.io/badge/pandas-1.3.5-red.svg)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-1.21.4-purple.svg)](https://numpy.org/)
+[![Seaborn](https://img.shields.io/badge/seaborn-0.11.2-pink.svg)](https://seaborn.pydata.org/)
+[![Yellowbrick](https://img.shields.io/badge/yellowbrick-1.3-white.svg)](https://www.scikit-yb.org/en/latest/)
+[![Scipy](https://img.shields.io/badge/scipy-1.7.3-white.svg)](https://www.scipy.org/)
+[![Dataset](https://img.shields.io/badge/Dataset-📊-red.svg)](https://www.kaggle.com/datasets/harrywang/wine-dataset-for-clustering)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://github.com/PhuongFX/Wine)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
-### Some great subheading (h3)
+## `About`
+> Clustering Connoisseurs is a machine learning project that uses a comprehensive dataset of 13 chemical constituents of wine to cluster wines into distinct categories.
+> > The goal is to develop a system that can accurately classify wines based on their chemical profiles, and provide insights into the characteristics of different wine styles.
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+## `What's in this project?` 🫶
 
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+* A dataset comprising 13 chemical constituents of wine, captures the diverse chemical profiles of wines from the same region in Italy but derived from three different cultivars.
+* Machine learning algorithms to classify wines into distinct categories based on their chemical constituents.
+* Including interactive visualizations of the wine data to make it easy to explore and understand the relationships between different wine characteristics.
+* Model evaluation using classification reports and accuracy scores
+* Prediction of cluster assignment of new, unseen wine samples based on their chemical constituents.
 
-### Some great subheading (h3)
+## `How it Works` 🫶
 
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Using a combination of exploratory data analysis, data preprocessing, feature scaling, and K-Means clustering to clustering, and 📈visualization to identify patterns and relationships in the wine data.
 
-> This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don't misuse it.
+## `Usage` 🤗
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
+📝 Here are some example use cases for this project:
 
-### Some great subheading (h3)
+* Wine recommendation systems: Used to develop personalized wine recommendations based on a user's taste preferences.
+* Wine classification: Used to classify wines into different categories based on their chemical constituents.
+* Quality control: Used to identify outliers and anomalies in the wine production process.
 
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
 
-```html
-<html>
-  <head> </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
+## `Methodology` 🔍
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+1. **Exploratory Data Analysis (EDA)**: The dataset is analyzed using various visualizations and statistical methods to identify patterns, outliers, and correlations.
+2. **Data Preprocessing**: Applying StandardScaler to the training features. Then finally shuffling dataset to increase randomness and reduce the likelihood of bias in the training process. Outliers are also been considering.
+3. **Clustering**: Using K-Means clustering algorithm with the optimal number of clusters determined using the Elbow Method and Hierarchical Clustering.
+4. **Evaluation**: Model performance is evaluated using Silhouette Score
+5. **Visualization**: 3D scatter plot and a countplot to show the distribution of the clusters.
 
-#### You might want a sub-subheading (h4)
+## `Results` 📊
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+🎉 Resulting in three clusters of wines with distinct profiles:
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+* Cluster 1: Low Proline & low Alcohol 🍸
+* Cluster 2: Low Proline & average Alcohol 🍹
+* Cluster 3: Average Proline & high Alcohol 🍷
 
-#### But it's probably overkill (h4)
+Clusters are also visualized using a scatter plot to show the relationship between Proline and Alcohol, and a boxenplot to show the distribution of Color Intensity across the clusters.
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+## `Methodology` 🔍
 
-### Oh hai, an unordered list!!
+> ### Requirements
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+* Python 3.8+
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Plotly
+* Yellowbrick
+* Scipy
+  
+## `Acknowledgments` 🙏
 
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
+* Kaggle dataset: 🍾 Wine Dataset for Clustering
+* Scikit-learn and Xgboost libraries for model training
+* Matplotlib and Seaborn libraries for data visualization
 
-### Oh hai, an ordered list!!
+## `🙅‍♂️Disclaimer`
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+> This project is licensed under AGPL-3.0 License and is for personal use only and should not be used for commercial purposes.
+The pre-trained model and may not always produce accurate results.
 
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
 
-## Headings are cool! (h2)
+## `Get Involved!` 😌
+This project was inspired by the complex and nuanced world of wine and the need for accurate wine classification and recommendation systems. 
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+I hope you found this project informative and engaging! 😊  
+If you're interested in collaborating and contributing to the project, please let me know! I'd love to hear from you.
+* [Follow me on GitHub](https://github.com/PhuongFX)
+* [Follow me on Hugging Face](https://huggingface.co/PhuongFX)
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+## `Getting Started` 🚀
 
-### Tables
+To get started with this project, you'll need to:
 
-| Title 1               | Title 2               | Title 3               | Title 4               |
-| --------------------- | --------------------- | --------------------- | --------------------- |
-| lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit |
-| lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit |
-| lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit |
-| lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit |
+* Install the required libraries, including pandas, numpy, scikit-learn, Plotly, Yellowbrick, Scipy `pip install pandas numpy scikit-learn plotly yellowbrick scipy` 📦
+* Download the dataset from Kaggle 📈
+* Run the code to train and evaluate the model 🤖
 
-| Title 1                    | Title 2                                | Title 3                    | Title 4                                |
-| -------------------------- | -------------------------------------- | -------------------------- | -------------------------------------- |
-| lorem                      | lorem ipsum                            | lorem ipsum dolor          | lorem ipsum dolor sit                  |
-| lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit                  |
-| lorem ipsum dolor          | lorem ipsum                            | lorem                      | lorem ipsum                            |
-| lorem ipsum dolor          | lorem ipsum dolor sit                  | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur |
+Enjoy working with the content! 😊
