@@ -4,7 +4,7 @@ title: Theme Antarctica
 abstract: An overview of this theme, including highlights and instructions of use
 categories: _misc
 tags: antarctica theme
-eyeCatcher: https://img.freepik.com/premium-photo/colorful-background-with-blue-yellow-circle-center_777078-3402.jpg
+eyeCatcher: https://img.freepik.com/premium-photo/wave-blue-water-close-up_100367-775.jpg
 ---
 
 ---
