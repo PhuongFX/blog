@@ -1,6 +1,6 @@
 ---
 layout: article
-categories: junk
+categories: _junk
 eyeCatcher: https://i.pinimg.com/originals/eb/0c/be/eb0cbe6d176fdba2af7cd5ea4e97386b.jpg
 ---
 
