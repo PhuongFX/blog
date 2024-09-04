@@ -2,7 +2,7 @@
 layout: article
 title: Test Markdown
 abstract: Demonstration of some features of Markdown
-categories: markdown
+categories:
 tags: test
 eyeCatcher: https://raw.githubusercontent.com/PhuongFX/jekyll-theme-antarctica/1/assets/img/89313.jpg
 ---
