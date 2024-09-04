@@ -2,7 +2,7 @@
 layout: article
 title: Welcome to Jekyll!
 abstract: Thanks for your interest in this theme! Let's see how you can build an awesome website with Jekyll and Antarctica……
-eyeCatcher: https://get.wallhere.com/photo/sea-nature-iceberg-ice-coast-cliff-cape-Arctic-Terrain-ocean-wave-wind-wave-sea-ice-arctic-ocean-ice-cap-glacial-landform-226275.jpg
+eyeCatcher: https://img.freepik.com/premium-photo/wave-blue-water-close-up_100367-775.jpg
 categories: _misc
 tags: demo jekyll
 properties: pinned
