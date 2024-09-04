@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Analyzing Gaming Behavior
-abstract: This project aims to predict the engagement level of gamers based on various factors such as age, gender, location, game genre, playtime hours, and more.
+abstract: Gradio_GenerativeAI Tool To Transcribe & Translate Audio
 categories: Demo
 tags: demo
 eyeCatcher: https://raw.githubusercontent.com/PhuongFX/jekyll-theme-antarctica/1/assets/img/Screenshot%202024-09-04%20120353.jpg
