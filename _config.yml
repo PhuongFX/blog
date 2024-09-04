@@ -72,8 +72,8 @@ collections:
     output: true
   
 projects_categories: 
-  - Hardware
-  - Software
+  - Demo
+  - Notebook
 
 related_sites:
   Jekyll | Static site generator: https://jekyllrb.com
