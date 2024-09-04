@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Speech To Text & Translation
+title: 🎮Gaming Engagement Prediction
 abstract: This project aims to predict the engagement level of gamers based on various factors such as age, gender, location, game genre, playtime hours, and more.
 categories: demo
 tags: test
