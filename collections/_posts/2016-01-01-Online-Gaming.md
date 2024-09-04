@@ -4,7 +4,7 @@ title: 🎮Gaming Engagement Prediction
 abstract: This project aims to predict the engagement level of gamers based on various factors such as age, gender, location, game genre, playtime hours, and more.
 categories: demo
 tags: test
-eyeCatcher: https://github.com/PhuongFX/Online-Gaming/blob/bf69da867605fb8e6c9dd68d446a4f60e4596f13/Demo/Screenshot%202024-08-22%20162808.jpg
+eyeCatcher: https://raw.githubusercontent.com/PhuongFX/Audio_Transcribe_Translate/b7988059f481ef1e270a96416f4a2b312d62548d/Interfaces/Screenshot%202024-07-27%20231505.jpg?token=GHSAT0AAAAAACWY3JJ7TFMKBMWL4CNFQ4PAZWX3SLQ
 ---
 
 
