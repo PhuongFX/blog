@@ -7,7 +7,7 @@ tags: demo
 eyeCatcher: https://raw.githubusercontent.com/PhuongFX/jekyll-theme-antarctica/1/assets/img/Screenshot%202024-09-04%20120353.jpg
 ---
 
-
+---
 
 
 **Gaming Engagement Prediction**
@@ -19,13 +19,18 @@ Are you curious about what makes gamers tick? 🤔 Do you want to know how to pr
 ==========================
 Streamlit App_Machine Learning Tool To Predict Gaming Engagement Level
 
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/PhuongFX/ML_Analyzing-Online-Gaming-Behavior/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.36.0-orange.svg)](https://streamlit.io/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-green.svg)](https://www.tensorflow.org/)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-🤖-green.svg)](https://en.wikipedia.org/wiki/Machine_learning)
-[![Dataset](https://img.shields.io/badge/Dataset-📊-red.svg)](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://github.com/PhuongFX/Online-Gaming)
+
+<div style="text-align: left;">
+
+  <a href='https://github.com/PhuongFX/ButterFlySpace/blob/main/LICENSE'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/License-AGPL%203.0-blue.svg' alt='License: AGPL-3.0'></a>
+  <a href='https://www.python.org/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Python-3.x-blue' alt='Python'></a>  
+  <a href='https://streamlit.io/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Streamlit-1.36.0-orange.svg' alt='Streamlit'></a>
+  <a href='https://www.tensorflow.org/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/TensorFlow-green.svg' alt='TensorFlow'></a>
+  <a href='https://en.wikipedia.org/wiki/Machine_learning'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Machine%20Learning-🤖-green.svg' alt='Machine Learning'></a>
+  <a href='https://github.com/PhuongFX/Online-Gaming'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg' alt='Open Source'></a>
+  <a href='https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Dataset-📊-red.svg' alt='Dataset'></a>
+  
+</div>
 
 
 > A machine learning-based application designed to analyze online gaming behavior and predict player engagement levels.
