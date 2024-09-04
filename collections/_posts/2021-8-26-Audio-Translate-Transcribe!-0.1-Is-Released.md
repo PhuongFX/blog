@@ -1,6 +1,6 @@
 ---
 layout: article
-title: STT Is Released
+title: 🎙️STT! Is Released
 abstract: My random thoughts on the first release of this AI-Web-app
 categories: announcement
 tags: antarctica release-note
