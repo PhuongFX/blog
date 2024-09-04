@@ -3,7 +3,7 @@ layout: article
 title: 🥔Potato Disease Detection
 abstract: A Machine Learning Tool to Prevent the Spread of Potato Diseases 🌱                                           _Xception _ResNet50 _Inception _NASNetMobile
 categories: notebook
-tags: TensorFlow
+tags: notebook
 eyeCatcher: https://raw.githubusercontent.com/PhuongFX/jekyll-theme-antarctica/1/assets/img/Screenshot%202024-09-05%20045717.jpg
 ---
 
