@@ -4,7 +4,7 @@ title: 🎮Gaming Engagement Prediction
 abstract: This project aims to predict the engagement level of gamers based on various factors such as age, gender, location, game genre, playtime hours, and more.
 categories: demo
 tags: test
-eyeCatcher: https://raw.githubusercontent.com/PhuongFX/jekyll-theme-antarctica/1/assets/img/Screenshot%202024-08-22%20150031(1).jpg
+eyeCatcher: https://raw.githubusercontent.com/PhuongFX/jekyll-theme-antarctica/1/assets/img/Screenshot%202024-09-04%20120353.jpg
 ---
 
 
@@ -33,7 +33,7 @@ Streamlit App_Machine Learning Tool To Predict Gaming Engagement Level
 > This application is intended to assist game developers in identifying players at risk of churn and creating personalized experiences to increase player satisfaction and loyalty.
 
 <p align='center'>
-  <img src="https://github.com/PhuongFX/Online-Gaming/blob/main/Demo/Screenshot%202024-08-22%20162808.jpg" />
+  <img src="https://raw.githubusercontent.com/PhuongFX/jekyll-theme-antarctica/1/assets/img/Screenshot%202024-09-04%20120506.jpg"/>
 </p>
 
 
