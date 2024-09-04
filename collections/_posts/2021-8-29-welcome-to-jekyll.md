@@ -2,7 +2,7 @@
 layout: article
 title: Welcome to Jekyll!
 abstract: Thanks for your interest in this theme! Let's see how you can build an awesome website with Jekyll and Antarctica……
-eyeCatcher: https://img.freepik.com/premium-photo/wave-blue-water-close-up_100367-775.jpg
+eyeCatcher: https://img.freepik.com/premium-photo/abstract-bokeh-night-garden-city-background_593294-26676.jpg?w=1060
 categories: _misc
 tags: demo jekyll
 properties: pinned
