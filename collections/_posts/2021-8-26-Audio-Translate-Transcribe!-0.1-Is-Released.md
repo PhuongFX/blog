@@ -4,7 +4,7 @@ title: 🎙️STT! Is Released
 abstract: My random thoughts on the first release of this AI-Web-app
 categories: Announcement
 tags: release-note
-eyeCatcher: https://img.freepik.com/premium-photo/wave-blue-water-close-up_100367-775.jpg
+eyeCatcher: https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v430-adj-42-acrylictexture_2.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=e283f157f1a5c95c4873022041295af0
 ---
 
 In early this July I wanted to start an AI and chose HuggingFace Spaces as the framework to begin with. After looking through several collections of HF models , I decided to build one app by myself. Previously I have written UI for some personal projects from scratch, with little code being reused. Getting interested with taks in `Natural Language Processing` and `Audio` aspects, I planned to build an unified UI framework apply to all scenario. Through the development process I gradually recognized the important of auto-detection function of Language-Audio generation models, and finally I got an idea in my mind to which is a bit  different from other demos in HF, that is an app to help us detect somethings that audio said about, then conveniently it also translate them to help us understand [Audio_Transcribe_Translate](https://github.com/PhuongFX/Audio_Transcribe_Translate). Fortunately those intergrated models are still from now, and their application are on my HF Hub, [STT Translate & Transcribe](https://huggingface.co/spaces/PhuongPhan/Audio_Transcribe_Translate).
