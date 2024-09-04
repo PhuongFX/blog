@@ -19,9 +19,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Theme Antarctica_
+title: Phuong's Page
 email: your-email@domain.com
-author: SdtElectronics_
+author: Phuong Phan
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
