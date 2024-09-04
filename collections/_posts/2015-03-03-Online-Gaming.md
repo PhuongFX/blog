@@ -8,107 +8,141 @@ eyeCatcher: https://raw.githubusercontent.com/PhuongFX/jekyll-theme-antarctica/1
 ---
 
 
-**STT Translate & Transcribe!** [![HF App](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-xl-dark.svg)](https://huggingface.co/spaces/PhuongPhan/Audio_Transcribe_Translate)
+
+
+**Gaming Engagement Prediction**
+=====================================
+
+Are you curious about what makes gamers tick? 🤔 Do you want to know how to predict their engagement levels? 📊 Well, you're in the right place! 😊 This project aims to predict the engagement level of gamers based on various factors such as age, gender, location, game genre, playtime hours, and more.
+
+**`DEMO:`🎮GamerDNA!** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-online-gaming-lvpredict.streamlit.app)
 ==========================
-Gradio_GenerativeAI Tool To Transcribe & Translate Audio
+Streamlit App_Machine Learning Tool To Predict Gaming Engagement Level
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/PhuongFX/ML_Analyzing-Online-Gaming-Behavior/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Gradio](https://img.shields.io/badge/Gradio-4.39.0-orange.svg)](https://gradio.app/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-green.svg)](https://pytorch.org/)
-[![Generative AI](https://img.shields.io/badge/Generative%20AI-🤖-green.svg)](https://en.wikipedia.org/wiki/Generative_model)
-[![Transformer](https://img.shields.io/badge/Transformer-4.17.0-red.svg)](https://huggingface.co/transformers)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://opensource.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.36.0-orange.svg)](https://streamlit.io/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-green.svg)](https://www.tensorflow.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-🤖-green.svg)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Dataset](https://img.shields.io/badge/Dataset-📊-red.svg)](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg)](https://github.com/PhuongFX/Online-Gaming)
 
+
+> A machine learning-based application designed to analyze online gaming behavior and predict player engagement levels.
+
+> This application is intended to assist game developers in identifying players at risk of churn and creating personalized experiences to increase player satisfaction and loyalty.
 
 <p align='center'>
-  <img src="https://raw.githubusercontent.com/PhuongFX/jekyll-theme-antarctica/1/assets/img/Screenshot%202024-07-27%20225443.jpg"/>
+  <img src="https://github.com/PhuongFX/Online-Gaming/blob/main/Demo/Screenshot%202024-08-22%20162808.jpg" />
 </p>
 
 
-
-## `About` 📝
-
-    > Using OpenAI Whisper Base model to transcribe audio files into text Google Madlad model to translate transcribed texts into multiple languages. 
-    > Enabling users to convert spoken words into written text. 
-    > Supporting various use cases, including transcription of audio files, detection of phrases, speech-to-text generation, and translation of text.
-
-    
 ## `How it Works` 🫶
 
-  - Upload an audio file or record a new one directly in the app.
-  - Transcribe the audio into text, allow copy and paste function for further use.
-  - Or/ Translates the transcribed text into multiple languages (400+ languages)
+### Step 1: Select the Features
 
-## `Usage` 🤗
+* Choose the characteristics that describe the player and the game 📝.
+* Select the features that are relevant to your analysis.
 
-  - Transcribe audio files for note-taking, research, or content creation
-  - Detect phrases or keywords in audio recordings for data analysis or market research
-  - Generate text from speech for speech-to-text applications, such as subtitles, closed captions, or voice assistants
-  - Use the app for language learning, by transcribing audio files in a foreign language and practicing pronunciation
-  - Translate the transcribed text into multiple languages for global communication
+### Step 2: Click the 'Predict' Button
 
-## `Features` 🎉
+* Get the predicted engagement level of the player 📊.
+* Use the predicted engagement level to create personalized experiences for the player.
 
-1. Supports audio files and live recording 📻
-2. Uses the OpenAI Whisper Base model for speech recognition 💬
-3. Displays transcribed text in the app 📝
-4. Allows you to copy and paste the transcribed text for further use 📋
-5. Translates the transcribed text into multiple languages using the Google Madlad model 🌎
+### Step 3: Get the Results
+
+* Use the app to predict player engagement levels for note-taking, research, or content creation 📝.
 
 
-## `Model Details` 📊   
-<p style='text-align: center'>"
-				"🐤 <a href='https://huggingface.co/openai/whisper-small' target='_blank'>OpenAI Whisper</a> | "
-				"🧑‍💻 <a href='https://huggingface.co/google/madlad400-3b-mt' target='_blank'>Google Madlad</a> |"
-			"</p>
-
-    The OpenAI Whisper Base model is a pre-trained model for automatic speech recognition (ASR) and speech translation.
-    It was trained on 680k hours of labelled data and demonstrates a strong ability to generalize to many datasets and domains without fine-tuning.
-
-| Size     | Parameters | English-only                                         | Multilingual                                        |
-|----------|------------|------------------------------------------------------|-----------------------------------------------------|
-| tiny     | 39 M       | [✓](https://huggingface.co/openai/whisper-tiny.en)   | [✓](https://huggingface.co/openai/whisper-tiny)     |
-| base     | 74 M       | [✓](https://huggingface.co/openai/whisper-base.en)   | [✓](https://huggingface.co/openai/whisper-base)     |
-| small    | 244 M      | [✓](https://huggingface.co/openai/whisper-small.en)  | [✓](https://huggingface.co/openai/whisper-small)    |
-| medium   | 769 M      | [✓](https://huggingface.co/openai/whisper-medium.en) | [✓](https://huggingface.co/openai/whisper-medium)   |
-| large    | 1550 M     | x                                                    | [✓](https://huggingface.co/openai/whisper-large)    |
-| large-v2 | 1550 M     | x                                                    | [✓](https://huggingface.co/openai/whisper-large-v2) |
-| large-v3 | 1550 M     | x                                                    | [✓](https://huggingface.co/openai/whisper-large-v3) |
+## `Dataset` 📊
 
 
-	For both the machine translation and language model, MADLAD-400 (Multilingual (400+ languages)) is used. For the machine translation model, a combination of parallel datasources covering 157 languages is also used. Using a Sentence Piece Model with 256k tokens shared on both the encoder and decoder side. Each input sentence has a <2xx> token prepended to the source sentence to indicate the target language.
+Containing 40,034 samples and 13 features. Here's a sneak peek at what's inside:
+
+* `PlayerID`: Unique identifier for each player
+* `Age`: Age of the player
+* `Gender`: Gender of the player (Male/Female)
+* `Location`: Location of the player
+* `GameGenre`: Genre of the game played (Strategy, Sports, Action, RPG, Simulation)
+* `PlayTimeHours`: Number of hours played
+* `InGamePurchases`: Number of in-game purchases made
+* `GameDifficulty`: Difficulty level of the game (Easy, Medium, Hard)
+* `SessionsPerWeek`: Number of sessions played per week
+* `AvgSessionDurationMinutes`: Average duration of each session in minutes
+* `PlayerLevel`: Level of the player
+* `AchievementsUnlocked`: Number of achievements unlocked
+* `EngagementLevel`: Engagement level of the player (Low, Medium, High)
 
 
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/64b7f632037d6452a321fa15/EzsMD1AwCuFH0S0DeD-n8.png)
+## `Architecture` 🤖
 
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/64b7f632037d6452a321fa15/CJ5zCUVy7vTU76Lc8NZcK.png)
+Here's a step-by-step guide to how to approached this project:
 
-![image/png](https://cdn-uploads.huggingface.co/production/uploads/64b7f632037d6452a321fa15/NK0S-yVeWuhKoidpLYh3m.png)
+1. **Data Preprocessing 🧹**: Removing missing values, encoding categorical variables, and scaling numerical variables.
+2. **Exploratory Data Analysis (EDA) 🔍**: Exploring the dataset to understand the distribution of each feature and their relationships.
+3. **Modeling 🤖**: Training and evaluating several machine learning models to predict the engagement level of gamers. The models used include:
+	* Logistic Regression
+	* K-Nearest Neighbors
+	* Support Vector Machines
+	* Decision Tree
+	* Random Forest
+	* AdaBoost
+	* Gradient Boosting
+	* Naive Bayes
+	* Neural Network
+	* XGB
+	* HistGradientBoostingClassifier
+	* LGBMClassifier
+	* CatBoostClassifier
+	* ExtraTreesClassifier
+4. **Hyperparameter Tuning 🔧**: Tuning hyperparameters using Bayesian optimization to improve the performance of the models.
 
-See the [research paper](https://arxiv.org/pdf/2309.04662.pdf) for further details.
+## `Results` 📊
 
-    
+The best performing model was the XGB model with an accuracy of 91.64% on the test set.
+
+| Model | Training Accuracy | Test Accuracy |
+| --- | --- | --- |
+| XGB | 93.39% | 91.64% |
+| RandomForest | 92.12% | 91.42% |
+
+## `Fine Tuning` 🔧
+--------------
+
+<p align='center'>
+  <img src="https://github.com/PhuongFX/OnlineGame/blob/main/newplot.png" />
+</p>
+
+--------------
+Predicting gamer engagement is a complex task, but with the right approach and techniques, we can achieve high accuracy. 📈 This project demonstrates the power of machine learning in understanding gamer behavior and predicting their engagement levels.
+
+## `Example Use Cases`
+
+* Analyze online gaming behavior to identify patterns and trends.
+* Predict player engagement levels to inform game development and marketing strategies.
+* Use the application to identify areas for improvement in game design and player experience.
+
+
 ## `🙅‍♂️Disclaimer`
 
 > This app is licensed under AGPL-3.0 License and is for personal use only and should not be used for commercial purposes.
-The OpenAI Whisper Base model and Google Madlad model are pre-trained models and may not always produce accurate results.
+The GamerDNA model is a pre-trained model and may not always produce accurate results.
 
 
 ## `Get Involved!` 😌
-
 I hope you found this project informative and engaging! 😊  
 If you're interested in collaborating and contributing to the project, please let me know! I'd love to hear from you.
 * [Follow me on GitHub](https://github.com/PhuongFX)
 * [Follow me on Hugging Face](https://huggingface.co/PhuongFX)
 
 
+
 ## `Getting Started` 🚀
 
 To get started with this project, you'll need to:
 
-* Clone the repository
-* Install the required dependencies using `pip install -r requirements.txt`📦
-* Run the application using `python app.py` 🤖
+* Install the required libraries, including TensorFlow, Keras, and OpenCV 📦
+* Download kaggle datasets using `download -d gpiosenka/butterfly-images40-species` 📈
+* Run the code to train and evaluate the model 🤖
 
 Enjoy working with the content! 😊
