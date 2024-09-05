@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ᯓAnalyzing Gaming Behavior
+title: Analyzing Gaming Behavior
 abstract: Streamlit App_Machine Learning Tool To Predict Gaming Engagement Level
 categories: Demo
 tags: demo streamlit ML
