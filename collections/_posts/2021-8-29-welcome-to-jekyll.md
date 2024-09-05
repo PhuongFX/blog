@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 𝄃𝄃𝄂𝄀𝄁Phuong Phan!
+title: 𝄃𝄃𝄂𝄀𝄁Phuong Phan
 abstract: Thanks for your interest in this theme! Let's see how you can build an awesome website with Jekyll and Antarctica……
 eyeCatcher: https://img.freepik.com/premium-photo/colorful-background-with-blue-yellow-circle-center_777078-3402.jpg
 categories: _misc
