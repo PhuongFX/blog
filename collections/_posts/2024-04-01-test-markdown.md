@@ -4,7 +4,7 @@ title: Test Markdown
 abstract: Demonstration of some features of Markdown
 categories:
 tags: test
-eyeCatcher: https://raw.githubusercontent.com/PhuongFX/jekyll-theme-antarctica/1/assets/img/89313.jpg
+eyeCatcher: https://img.freepik.com/premium-photo/wave-blue-water-close-up_100367-775.jpg
 ---
 
 {{ "here is a liquid filter." | capitalize }}
