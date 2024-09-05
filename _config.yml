@@ -72,13 +72,14 @@ collections:
     output: true
   
 projects_categories: 
+  - Software
   - Demo
   - Notebook
 
 related_sites:
   Jekyll | Static site generator: https://jekyllrb.com
   Source Repo | Theme antarctica: https://github.com/SdtElectronics/jekyll-theme-antarctica
-  My Homepage | SdtElectronics: https://sdtelectronics.github.io/
+  My Homepage | SdtElectronics: https://phuongfx.github.io/
 
 defaults:
   - scope:
