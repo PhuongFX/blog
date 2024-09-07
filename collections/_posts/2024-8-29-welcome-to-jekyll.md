@@ -22,7 +22,7 @@ properties: pinned
 =====================================
 
 
-### <center>Empowering innovation through AI and ML</center>
+# <center>**Empowering innovation through AI and ML**</center>
 
 =====================================
 
