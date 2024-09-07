@@ -14,20 +14,6 @@ properties: pinned
 **"Empowering innovation through AI and ML"**
 =====================================
 
-
-<div style="text-align: center; margin-top: 20px;">
-  <h1 style="font-size: 24px; font-weight: bold;">Empowering innovation through AI and ML</h1>
-</div>
-
-=====================================
-
-
-# <center>**Empowering innovation through AI and ML**</center>
-
-=====================================
-
-
-
 The intersection of AI and ML is an area that I am extremely passionate about, and I am constantly amazed by the breakthroughs and innovations that are emerging in this space. From natural language processing and computer vision to deep learning and reinforcement learning, I am fascinated by the possibilities of these technologies and their potential to drive business value, improve customer experiences, and enhance our daily lives. I am excited to be a part of this vibrant community, collaborating with others to explore the frontiers of what is possible and pushing the boundaries of AI and ML.
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
