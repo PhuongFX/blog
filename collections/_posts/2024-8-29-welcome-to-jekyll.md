@@ -18,10 +18,6 @@ properties: pinned
 
 From natural language processing and computer vision to deep learning and reinforcement learning, I am fascinated by the possibilities of these technologies and their potential to drive business value, improve customer experiences, and enhance our daily lives.
 
-<p align='center'>
-  <img src="https://github.com/PhuongFX/OnlineGame/blob/main/newplot.png" width="134px" height="134px"/>
-</p>
-
 > I am excited to be a part of this vibrant community, collaborating with others to explore the frontiers of what is possible and pushing the boundaries of AI and ML.
 
 <p align='center'>
