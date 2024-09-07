@@ -3,7 +3,7 @@ layout: article
 title: Theme Antarctica
 abstract: An overview of this theme, including highlights and instructions of use
 categories: About
-tags: theme
+tags: About
 eyeCatcher: https://img.freepik.com/free-photo/blue-camera-dust-spots-abstract_23-2148241252.jpg?t=st=1725434951~exp=1725438551~hmac=2bb07164da6ce918c24c9890d01bf4ce7176c8772cc211e866aede2a45f1ccc5&w=996
 ---
 
