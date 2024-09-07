@@ -19,6 +19,12 @@ properties: pinned
 From natural language processing and computer vision to deep learning and reinforcement learning, I am fascinated by the possibilities of these technologies and their potential to drive business value, improve customer experiences, and enhance our daily lives.
 > I am excited to be a part of this vibrant community, collaborating with others to explore the frontiers of what is possible and pushing the boundaries of AI and ML.
 
+<p align='center'>
+  <img src="https://github.com/PhuongFX/OnlineGame/blob/main/newplot.png" width="134px" height="134px"/>
+</p>
+
+## section 1
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
