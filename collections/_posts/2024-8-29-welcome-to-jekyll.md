@@ -24,9 +24,9 @@ From natural language processing and computer vision to deep learning and reinfo
   <img src="https://github.com/PhuongFX/OnlineGame/blob/main/newplot.png" width="134px" height="134px"/>
 </p>
 
-## `How it Works` 🫶
+## `How it Works`
 
-### Step 1: Select the Features
+#### Step 1: Select the Features
 
 * Choose the characteristics that describe the player and the game 📝.
 
