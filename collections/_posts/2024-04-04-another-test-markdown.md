@@ -75,7 +75,7 @@ late_comming_days * 20000
 * Có chức năng thêm/sửa/xóa nhân viên mới
 * Có chức năng hiển thị lương của từng nhân viên
 
-
+~~~
 1. Hiển thị danh sách nhân viên.
 2. Hiển thị danh sách bộ phận.
 3. Thêm nhân viên mới.
@@ -84,6 +84,7 @@ late_comming_days * 20000
 6. Hiển thị bảng lương.
 7. Thoát.
 Mời bạn nhập chức năng mong muốn:
+~~~
 
 ### "Hiển thị danh sách nhân viên"
 
