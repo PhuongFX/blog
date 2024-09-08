@@ -21,6 +21,12 @@ eyeCatcher: https://img.rawpixel.com/s3fs-private/rawpixel_images/website_conten
   
 </div>
 
+
+<p align='center'>
+  <img src="https://raw.githubusercontent.com/PhuongFX/python3/main/Screenshot%202024-09-05%20095431.jpg"/>
+</p>
+
+
 ## `Tài nguyên`
 
 [File thông tin thuế TNCN (XML)](https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FChung%20chi%20dieu%20kien%2FPYB101x_1.1%2FASM_Resources%2Ftax.xml?alt=media&token=f7a6f73d-9e6d-4807-bb14-efc6875442c7)
