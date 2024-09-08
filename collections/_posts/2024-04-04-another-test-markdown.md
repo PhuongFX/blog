@@ -69,8 +69,122 @@ late_comming_days * 20000
 * bonus_salary: Thưởng bộ phận
 
 
-
+## `Menu chức năng`
 
 * Có màn hình menu hiển thị tất cả các chức năng
 * Có chức năng thêm/sửa/xóa nhân viên mới
 * Có chức năng hiển thị lương của từng nhân viên
+
+
+1. Hiển thị danh sách nhân viên.
+2. Hiển thị danh sách bộ phận.
+3. Thêm nhân viên mới.
+4. Xóa nhân viên theo ID.
+5. Xóa bộ phân theo ID
+6. Hiển thị bảng lương.
+7. Thoát.
+Mời bạn nhập chức năng mong muốn:
+
+### "Hiển thị danh sách nhân viên"
+
+Với chức năng này, bạn sẽ in ra thông tin của các nhân viên được lưu trong hệ thống, theo format như sau:
+~~~
+----
+Mã số: NV001
+Mã bộ phận: SALE001
+Chức vụ: Nhân viên
+Họ và tên: Nguyễn Văn A
+Hệ số lương: 200,000 (VND)
+Số ngày làm việc: 26 (ngày)
+Hệ số hiệu quả: 1
+Thưởng: 500,000 (VND)
+Số ngày đi muộn: 2
+----
+~~~
+
+### "Hiển thị danh sách bộ phận"
+
+Với chức năng này, bạn sẽ hiện thị danh sách tất cả các bộ phận đang có, theo format như sau:
+~~~
+----
+Mã bộ phận: SALE01
+Thưởng bộ phận: 500,000 (VND)
+----
+~~~
+
+### "Thêm nhân viên mới"
+
+Với chức năng này, người dùng sẽ được thêm một nhân viên mới vào danh sách. Người dùng sẽ được nhập liệu các thông tin cho nhân viên mới như sau:
+
+~~~
+----
+Thêm nhân viên mới ...
+Nhập mã số: 'NV002'
+Nhập mã bộ phận: 'SALE002'
+Nhập chức vụ (NV / QL): 'NV'
+Nhập họ và tên: 'Nguyen Van B'
+Nhập hệ sô lương: '300000'
+Nhập số ngày làm việc: '25'
+Nhập hệ số hiệu quả: '0.8'
+Nhập thưởng: '0'
+Nhập số ngày đi muộn: '0'
+Đã thêm nhân viên mới ...
+----
+~~~
+~~~
+Mã bộ phận chưa tồn tại, tạo mới ...
+Nhập thưởng bộ phận: 100000
+Đã tạo bộ phận mới ...
+Đã thêm nhân viên mới ...
+~~~
+
+### "Xóa nhân viên theo ID"
+
+Với chức năng này, người dùng sẽ nhập ID của nhân viên muốn xóa và xóa nhân viên đó khỏi hệ thống. Ví dụ:
+
+~~~
+----
+Nhập mã nhân viên muốn xóa: 'NV001'
+Đã xóa thành công
+----
+~~~
+
+### "Xóa bộ phận theo ID"
+
+Tương tự với chức năng "Xóa nhân viên theo ID" nhưng là xóa bộ phận trên hệ thống.
+
+### "Hiển thị bảng lương"
+
+Với chức năng này, bạn hãy hiển thị bảng lương của tất cả nhân viên trong hệ thống, với format như sau:
+
+~~~
+----
+Mã số: NV001
+Thu nhập thực nhận: 4,961,880 (VND)
+----
+~~~
+
+### "Thoát"
+
+Với chức năng này, chương trình sẽ kết thúc.
+
+### "Thêm chức năng chỉnh sửa nhân viên"
+
+Người dùng sẽ nhập vào mã nhân viên muốn chỉnh sửa, sau đó là các trường muốn sửa và giá trị mới. Ví dụ:
+
+~~~
+----
+Chỉnh sửa nhân viên
+Nhập mã nhân viên: 'NV002'
+
+Nhập họ và tên: ...
+Nhập chức vụ (NV / QL): ...
+Nhập hệ số lương: ...
+Nhập số ngày làm việc: ...
+Nhập hệ số hiệu quả: ...
+Nhập thưởng: ...
+Nhập số ngày đi muộn: ...
+
+Đã hoàn tất chỉnh sửa
+----
+~~~
