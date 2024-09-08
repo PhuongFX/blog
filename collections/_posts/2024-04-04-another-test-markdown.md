@@ -18,6 +18,7 @@ eyeCatcher: https://img.rawpixel.com/s3fs-private/rawpixel_images/website_conten
 [File thông tin thuế TNCN (XML)](https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FChung%20chi%20dieu%20kien%2FPYB101x_1.1%2FASM_Resources%2Ftax.xml?alt=media&token=f7a6f73d-9e6d-4807-bb14-efc6875442c7)
 
 * min < lương chịu thuế <= max
+  
 ~~~
 <tax>
 	<min>0</min>
@@ -42,6 +43,7 @@ eyeCatcher: https://img.rawpixel.com/s3fs-private/rawpixel_images/website_conten
 	"value": 20000
 },
 ~~~
+
 ~~~
 late_comming_days * 20000
 ~~~
