@@ -91,7 +91,7 @@ late_comming_days * 20000
 Mời bạn nhập chức năng mong muốn:
 ~~~
 
-### "Hiển thị danh sách nhân viên"
+> ### "Hiển thị danh sách nhân viên"
 
 Với chức năng này, bạn sẽ in ra thông tin của các nhân viên được lưu trong hệ thống, theo format như sau:
 ~~~
@@ -108,7 +108,7 @@ Số ngày đi muộn: 2
 ----
 ~~~
 
-### "Hiển thị danh sách bộ phận"
+> ### "Hiển thị danh sách bộ phận"
 
 Với chức năng này, bạn sẽ hiện thị danh sách tất cả các bộ phận đang có, theo format như sau:
 ~~~
@@ -118,7 +118,7 @@ Thưởng bộ phận: 500,000 (VND)
 ----
 ~~~
 
-### "Thêm nhân viên mới"
+> ### "Thêm nhân viên mới"
 
 Với chức năng này, người dùng sẽ được thêm một nhân viên mới vào danh sách. Người dùng sẽ được nhập liệu các thông tin cho nhân viên mới như sau:
 
@@ -144,7 +144,7 @@ Nhập thưởng bộ phận: 100000
 Đã thêm nhân viên mới ...
 ~~~
 
-### "Xóa nhân viên theo ID"
+> ### "Xóa nhân viên theo ID"
 
 Với chức năng này, người dùng sẽ nhập ID của nhân viên muốn xóa và xóa nhân viên đó khỏi hệ thống. Ví dụ:
 
@@ -155,11 +155,11 @@ Nhập mã nhân viên muốn xóa: 'NV001'
 ----
 ~~~
 
-### "Xóa bộ phận theo ID"
+> ### "Xóa bộ phận theo ID"
 
 Tương tự với chức năng "Xóa nhân viên theo ID" nhưng là xóa bộ phận trên hệ thống.
 
-### "Hiển thị bảng lương"
+> ### "Hiển thị bảng lương"
 
 Với chức năng này, bạn hãy hiển thị bảng lương của tất cả nhân viên trong hệ thống, với format như sau:
 
@@ -170,11 +170,11 @@ Thu nhập thực nhận: 4,961,880 (VND)
 ----
 ~~~
 
-### "Thoát"
+> ### "Thoát"
 
 Với chức năng này, chương trình sẽ kết thúc.
 
-### "Thêm chức năng chỉnh sửa nhân viên"
+> ### "Thêm chức năng chỉnh sửa nhân viên"
 
 Người dùng sẽ nhập vào mã nhân viên muốn chỉnh sửa, sau đó là các trường muốn sửa và giá trị mới. Ví dụ:
 
