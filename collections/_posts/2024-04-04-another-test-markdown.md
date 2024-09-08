@@ -13,6 +13,14 @@ eyeCatcher: https://img.rawpixel.com/s3fs-private/rawpixel_images/website_conten
 **Quản lý và tính tiền lương hàng tháng nhân viên trong công ty**
 =====================================
 
+<div style="text-align: left;">
+
+  <a href='https://github.com/PhuongFX/ButterFlySpace/blob/main/LICENSE'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/License-AGPL%203.0-blue.svg' alt='License: AGPL-3.0'></a>
+  <a href='https://www.python.org/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Python-3.x-blue' alt='Python'></a>
+  <a href='https://github.com/PhuongFX/python3'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg' alt='Open Source'></a>
+  
+</div>
+
 ## `Tài nguyên`
 
 [File thông tin thuế TNCN (XML)](https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FChung%20chi%20dieu%20kien%2FPYB101x_1.1%2FASM_Resources%2Ftax.xml?alt=media&token=f7a6f73d-9e6d-4807-bb14-efc6875442c7)
