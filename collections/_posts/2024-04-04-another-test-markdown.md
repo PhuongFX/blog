@@ -51,10 +51,6 @@ late_comming_days * 20000
 
 ## `Class`
 
-| Department            | Nhân viên thường (Employee)      | Quản lý (Manager)                  |
-|-----------------------|----------------------------------|------------------------------------|
-
-
 > ### Employee, Manager
 * id: Mã số nhân viên
 * name: Họ và tên nhân viên
