@@ -35,6 +35,17 @@ eyeCatcher: https://img.rawpixel.com/s3fs-private/rawpixel_images/website_conten
 
 [File thông tin mức phạt đi muộn (JSON)](https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FChung%20chi%20dieu%20kien%2FPYB101x_1.1%2FASM_Resources%2Flate_coming.json?alt=media&token=55246ee9-44fa-4642-aca2-dde101d705de)
 
+~~~
+{
+	"min": 0,
+	"max": 3,
+	"value": 20000
+},
+~~~
+~~~
+late_comming_days * 20000
+~~~
+
 
 
 ## `Class`
