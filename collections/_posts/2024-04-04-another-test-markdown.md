@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ⌖Chương trình quản lý nhân viên
+title: ⌖ Chương trình quản lý nhân viên
 abstract: Chương trình giúp quản lý và tính tiền lương hàng tháng của các nhân viên trong công ty
 categories: Demo
 tags: Python
