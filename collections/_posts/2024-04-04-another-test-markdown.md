@@ -17,14 +17,31 @@ eyeCatcher: https://img.rawpixel.com/s3fs-private/rawpixel_images/website_conten
 
 [File thông tin thuế TNCN (XML)](https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FChung%20chi%20dieu%20kien%2FPYB101x_1.1%2FASM_Resources%2Ftax.xml?alt=media&token=f7a6f73d-9e6d-4807-bb14-efc6875442c7)
 
+* min < lương chịu thuế <= max
+~~~
+<tax>
+	<min>0</min>
+	<max>5</max>
+	<value>5</value>
+</tax>
+<tax>
+	<min>5</min>
+	<max>10</max>
+	<value>10</value>
+</tax>
+...
+~~~
+
+
 [File thông tin mức phạt đi muộn (JSON)](https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FChung%20chi%20dieu%20kien%2FPYB101x_1.1%2FASM_Resources%2Flate_coming.json?alt=media&token=55246ee9-44fa-4642-aca2-dde101d705de)
 
+
+
+## `Class`
 
 | Department            | Nhân viên thường (Employee)      | Quản lý (Manager)                  |
 |-----------------------|----------------------------------|------------------------------------|
 
-
-## `Class`
 
 > ### Employee, Manager
 * id: Mã số nhân viên
