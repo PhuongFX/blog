@@ -86,7 +86,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      avatar: "assets/img/1.png"
+      avatar: "assets/img/EDIT.png"
 
 # Build settings
 highlighter: rouge
