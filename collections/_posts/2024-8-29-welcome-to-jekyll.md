@@ -21,7 +21,7 @@ From natural language processing and computer vision to deep learning and reinfo
 > I am excited to be a part of this vibrant community, collaborating with others to explore the frontiers of what is possible and pushing the boundaries of AI and ML.
 
 <p align='center'>
-  <img src="https://raw.githubusercontent.com/PhuongFX/blog/1/assets/img/B612_20240909_162550_057-EDIT-EDIT.jpg" width="134px" height="134px"/>
+  <img src="https://raw.githubusercontent.com/PhuongFX/blog/1/assets/img/4.jpg" width="134px" height="134px"/>
 </p>
 
 ## `How it Works`
