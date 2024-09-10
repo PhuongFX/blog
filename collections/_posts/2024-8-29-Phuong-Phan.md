@@ -45,7 +45,7 @@ From natural language processing and computer vision to deep learning and reinfo
 [███▒▒▒▒▒▒](https://github.com/your-username) ✔️  30% 「 Automatic Speech Recognition [█████████▒](https://github.com/your-username) Speech2Text generation [███▒▒▒▒▒▒](https://github.com/your-username) 」
 
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%">
+<img src="https://github.com/PhuongFX/blog/blob/0b1eaf53c1c0412eaa8c2e6cc8cbb5d91b1f30b2/assets/img/line-neon.gif" width="100%">
 
 # `🛠 My Stacks`
 
