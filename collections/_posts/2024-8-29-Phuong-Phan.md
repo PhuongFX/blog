@@ -45,7 +45,8 @@ From natural language processing and computer vision to deep learning and reinfo
 [███▒▒▒▒▒▒](https://github.com/your-username) ✔️  30% 「 Automatic Speech Recognition [█████████▒](https://github.com/your-username) Speech2Text generation [███▒▒▒▒▒▒](https://github.com/your-username) 」
 
 
-***
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%">
+
 # `🛠 My Stacks`
 
 
@@ -126,7 +127,7 @@ From natural language processing and computer vision to deep learning and reinfo
 <!-- <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> -->
 <!-- <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> -->
 
-  
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
 # `🖥️ Projects`
 
