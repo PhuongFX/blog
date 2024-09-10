@@ -10,8 +10,7 @@ properties: pinned
 
 ---
 
-
-[INFO](https://phuongfx.github.io/blog/about.html)
+[![Static Badge](https://img.shields.io/badge/website-%23EB4A5F?style=for-the-badge&logoColor=white)](https://phuongfx.github.io/blog/about.html)
 
 **"Empowering innovation through AI and ML"**
 =====================================
