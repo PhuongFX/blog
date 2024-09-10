@@ -10,7 +10,9 @@ properties: pinned
 
 ---
 
-[![Static Badge](https://img.shields.io/badge/website-%23EB4A5F?style=for-the-badge&logoColor=white)](https://phuongfx.github.io/blog/about.html)
+<div style="text-align: left;">
+  <a><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/info-%23EB4A5F?style=for-the-badge&logoColor=white' alt='Static Badge'></a>
+</div>
 
 **"Empowering innovation through AI and ML"**
 =====================================
