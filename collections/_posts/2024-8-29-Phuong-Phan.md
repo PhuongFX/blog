@@ -10,11 +10,8 @@ properties: pinned
 
 ---
 
-<div style="text-align: left;">
-  <a><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/info-%23EB4A5F?style=for-the-badge&logoColor=white' alt='Static Badge'></a>
-</div>
 
-**"Empowering innovation through AI and ML"**
+![Static Badge](https://img.shields.io/badge/info-%23EB4A5F?style=for-the-badge&logoColor=white) **"Empowering innovation through AI and ML"**
 =====================================
 
 > The intersection of AI and ML is an area that I am extremely passionate about, and I am constantly amazed by the breakthroughs and innovations that are emerging in this space.
