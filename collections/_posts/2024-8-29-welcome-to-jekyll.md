@@ -50,12 +50,25 @@ Audio
 ***
 
 > ### Programming Languages
+
+<div style="text-align: left;">
+
+  <a href='https://github.com/PhuongFX/ButterFlySpace/blob/main/LICENSE'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/License-AGPL%203.0-blue.svg' alt='License: AGPL-3.0'></a>
+  <a href='https://www.python.org/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Python-3.x-blue' alt='Python'></a>
+  <a href='https://www.tensorflow.org/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/TensorFlow-2.x-orange' alt='TensorFlow'></a>
+  <a href='https://keras.io/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Keras-2.x-green' alt='Keras'></a>
+  <a href='https://opencv.org/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/OpenCV-4.x-red' alt='OpenCV'></a>
+  <a href='https://github.com/PhuongFX/ButterFlySpace'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green.svg' alt='Open Source'></a>
+  <a href='https://www.kaggle.com/datasets/gpiosenka/butterfly-images40-species'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Dataset-📊-red.svg' alt='Dataset'></a>
   
+</div>
+
+
 <div>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-<div>
+<div style="text-align: left;">
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
