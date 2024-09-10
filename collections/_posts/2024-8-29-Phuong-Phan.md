@@ -11,6 +11,8 @@ properties: pinned
 ---
 
 
+[INFO](https://phuongfx.github.io/blog/about.html)
+
 **"Empowering innovation through AI and ML"**
 =====================================
 
