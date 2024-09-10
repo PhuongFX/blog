@@ -25,8 +25,6 @@ From natural language processing and computer vision to deep learning and reinfo
 </p>
 
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
-
 # `Expertise`
 
 *Computer Vision*
