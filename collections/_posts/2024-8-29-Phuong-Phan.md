@@ -10,8 +10,7 @@ properties: pinned
 
 ---
 
-
-![Static Badge](https://img.shields.io/badge/info-%23EB4A5F?style=for-the-badge&logoColor=white) **"Empowering innovation through AI and ML"**
+**"Empowering innovation through AI and ML"**
 =====================================
 
 > The intersection of AI and ML is an area that I am extremely passionate about, and I am constantly amazed by the breakthroughs and innovations that are emerging in this space.
@@ -19,6 +18,8 @@ properties: pinned
 From natural language processing and computer vision to deep learning and reinforcement learning, I am fascinated by the possibilities of these technologies and their potential to drive business value, improve customer experiences, and enhance our daily lives.
 
 > I am excited to be a part of this vibrant community, collaborating with others to explore the frontiers of what is possible and pushing the boundaries of AI and ML.
+
+![Static Badge](https://img.shields.io/badge/info-%23EB4A5F?style=for-the-badge&logoColor=white)
 
 <p align='center'>
   <img src="https://raw.githubusercontent.com/PhuongFX/blog/1/assets/img/4.jpg"/>
