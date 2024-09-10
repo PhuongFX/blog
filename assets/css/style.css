@@ -1270,6 +1270,9 @@ div.bottomPop{
 
 
 .my-svg-icon {
-  background-image: none;
+  	background-image: none;
+	line-height: calc(var(--sidebar-elem-size) * 1rem);
+	width: calc(var(--sidebar-elem-size) * 1rem);
+	height: calc(var(--sidebar-elem-size) * 1rem);
 }
 
