@@ -22,6 +22,7 @@ From natural language processing and computer vision to deep learning and reinfo
 ![Static Badge](https://img.shields.io/badge/info-%23EB4A5F?style=for-the-badge&logoColor=white)
 
 <p align='center'>
+  <img src="https://img.shields.io/badge/info-%23EB4A5F?style=for-the-badge&logoColor=white"/>
   <img src="https://raw.githubusercontent.com/PhuongFX/blog/1/assets/img/4.jpg"/>
 </p>
 
