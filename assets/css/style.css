@@ -1274,7 +1274,6 @@ div.bottomPop{
 }
 
 .my-svg-icon svg {
-  width: calc(var(--sidebar-elem-size) * 1rem); height: calc(var(--sidebar-elem-size) * 1rem);
   position: absolute;
   top: 50%;
   left: 50%;
