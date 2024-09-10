@@ -133,7 +133,7 @@ From natural language processing and computer vision to deep learning and reinfo
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-# `🖥️ Projects` [</>](https://phuongfx.github.io/blog/projects.html)
+# `🖥️ Projects`[/](https://phuongfx.github.io/blog/projects.html)
 
 | Name                                                                                                                                                                                                              | About                                                                                                                                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
