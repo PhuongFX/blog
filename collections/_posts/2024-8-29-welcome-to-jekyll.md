@@ -27,6 +27,9 @@ From natural language processing and computer vision to deep learning and reinfo
 
 # `Expertise`
 
+**"Empowering innovation through AI and ML"**
+=====================================
+
 *Computer Vision*
 [████████▒▒](https://github.com/your-username) ✔️  70%
 
@@ -38,7 +41,7 @@ Deep Learning
 
 
 Natural Language Processing
-[██▒▒▒▒▒▒▒](https://github.com/your-username) ✔️  10% 「 Translation [███████▒▒▒](https://github.com/your-username)    Text2Text generation [█▒▒▒▒▒▒▒▒](https://github.com/your-username) 」
+[██▒▒▒▒▒▒▒](https://github.com/your-username) ✔️  10% 「 Translation [███████▒▒▒](https://github.com/your-username)    Text2Text generation [█▒▒▒▒▒▒▒](https://github.com/your-username) 」
 
 
 Audio 
