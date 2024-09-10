@@ -27,30 +27,27 @@ From natural language processing and computer vision to deep learning and reinfo
 
 # `Expertise`
 
-**`Expertise`**
-=====================================
-
 *Computer Vision*
 [████████▒▒](https://github.com/your-username) ✔️  70%
 
-***Tabular***
+*Tabular*
 [████████▒▒](https://github.com/your-username) ✔️  89%
 
-Deep Learning
+*Deep Learning*
 [██████████](https://github.com/your-username) ✔️  100%
 
 
-Natural Language Processing
+*Natural Language Processing*
 [██▒▒▒▒▒▒▒](https://github.com/your-username) ✔️  10% 「 Translation [███████▒▒▒](https://github.com/your-username)    Text2Text generation [█▒▒▒▒▒▒▒](https://github.com/your-username) 」
 
 
-Audio 
+*Audio*
 [███▒▒▒▒▒▒](https://github.com/your-username) ✔️  30% 「 Automatic Speech Recognition [█████████▒](https://github.com/your-username) Speech2Text generation [███▒▒▒▒▒▒](https://github.com/your-username) 」
 
 
-
-# `🛠 My Stacks`
 ***
+# `🛠 My Stacks`
+
 
 > ### Programming Languages
 
