@@ -27,7 +27,7 @@ From natural language processing and computer vision to deep learning and reinfo
 
 # `Expertise`
 
-**"Empowering innovation through AI and ML"**
+**`Expertise`**
 =====================================
 
 *Computer Vision*
@@ -68,17 +68,14 @@ Audio
 
 
 <div>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
+
 <div style="text-align: left;">
-<a href='https://github.com/PhuongFX/ButterFlySpace/blob/main/LICENSE'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/License-AGPL%203.0-blue.svg' alt='Markdown'></a>
-<a><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white' alt='Python'></a>
-<a href='https://www.tensorflow.org/'><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/TensorFlow-2.x-orange' alt='TensorFlow'></a>
-  
-<img alt="" src=""/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <a><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white' alt='Markdown'></a>
+  <a><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'></a>
+  <a><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'></a>
 </div>
 
 
