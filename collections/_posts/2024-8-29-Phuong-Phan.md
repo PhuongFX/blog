@@ -24,6 +24,8 @@ From natural language processing and computer vision to deep learning and reinfo
   <img src="https://raw.githubusercontent.com/PhuongFX/blog/1/assets/img/4.jpg"/>
 </p>
 
+<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
+
 
 # `Expertise`
 
