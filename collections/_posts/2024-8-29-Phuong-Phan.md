@@ -118,7 +118,7 @@ Audio
 
 <div style="text-align: left;">
   <a><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white' alt='Google Cloud'></a>
-  <a><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/hugging%20spaces-%23FF9D00?style=for-the-badge&logo=huggingface&logoColor=%234c5253&color=%23FF9D0' alt='HF'></a>
+  <a><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/hugging%20spaces-%23FF9D00?style=for-the-badge&logo=huggingface&logoColor=%234c5253&color=%23FF9D00' alt='HF'></a>
   <a><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/streamlit-brightgreen?style=for-the-badge&logo=streamlit&color=green&cacheSeconds=https%3A%2F%2Fstreamlit.io%2F' alt='Streamlit'></a>
   <a><img style='display: inline-block; margin: 0; padding: 0;' src='https://img.shields.io/badge/github-%23FF9D00?style=for-the-badge&logo=github&logoColor=white&color=%23181717' alt='GitHub'></a>
 </div>
