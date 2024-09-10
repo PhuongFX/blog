@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 𝄃𝄃𝄂𝄀𝄁 Phuong֎Phan 𓆝 𓆟 𓆞 𓆝
-abstract: ╰┈➤ Thanks for your interest in this blog! This is where you can find out most of my Projects and information on my Profile……
+abstract: ╰┈➤ Thanks for your interest in this blog! This is where you can find out most of my Projects and My Info……
 eyeCatcher: https://img.freepik.com/premium-photo/colorful-background-with-blue-yellow-circle-center_777078-3402.jpg
 categories: About
 tags: About
