@@ -144,11 +144,5 @@ From natural language processing and computer vision to deep learning and reinfo
 | [Employee Management Program](https://github.com/PhuongFX/python3)                                          | A Python software To Manage Employee Profile & Salary. With functions to Edit [Departments & Employee] profiles and Display net salaries. Combination of personal tax, late-coming days calculating and data parsing, re-serializing codes.
 
 
-## section 2
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
 
