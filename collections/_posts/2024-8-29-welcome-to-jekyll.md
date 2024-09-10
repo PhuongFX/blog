@@ -24,19 +24,13 @@ From natural language processing and computer vision to deep learning and reinfo
   <img src="https://raw.githubusercontent.com/PhuongFX/blog/1/assets/img/4.jpg"/>
 </p>
 
-## `How it Works`
-
-#### Step 1: Select the Features
-
-* Choose the characteristics that describe the player and the game 📝.
-
 
 # `Expertise`
 
-Computer Vision
+*Computer Vision*
 [████████▒▒](https://github.com/your-username) ✔️  70%
 
-Tabular
+***Tabular***
 [████████▒▒](https://github.com/your-username) ✔️  89%
 
 Deep Learning
@@ -52,8 +46,9 @@ Audio
 
 
 
-
 # `🛠 My Stacks`
+***
+
 > ### Programming Languages
   
 <div>
