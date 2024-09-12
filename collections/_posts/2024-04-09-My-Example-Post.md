@@ -13,7 +13,15 @@ eyeCatcher: https://i.pinimg.com/originals/eb/0c/be/eb0cbe6d176fdba2af7cd5ea4e97
 
 
 
-# `🛠 Technical Experience`
+# <div style="text-align: left;">
+    <a><img style='display: inline-block; margin: 0; padding: 0; width: 70px; height: 70px;' src='https://raw.githubusercontent.com/PhuongFX/blog/1/assets/img/loading.png' alt='Python'></a>
+  </div>
+
+
+
+
+
+# <img style='display: width: 70px; height: 70px;' src='https://raw.githubusercontent.com/PhuongFX/blog/1/assets/img/loading.png' alt='Python'> `🛠 Technical Experience`
 
 
 > ### Programming Languages
@@ -95,7 +103,7 @@ eyeCatcher: https://i.pinimg.com/originals/eb/0c/be/eb0cbe6d176fdba2af7cd5ea4e97
 
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/2nd%20arrow.gif?raw=true">
 
-# `🖥️ Portfolio`[</>](https://phuongfx.github.io/blog/projects.html)
+# `🖥️ Portfolio of Projects`[</>](https://phuongfx.github.io/blog/projects.html)
 
 | Name                                                                                                                                                                                                              | About                                                                                                                                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
