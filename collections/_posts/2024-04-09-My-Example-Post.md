@@ -5,7 +5,7 @@ tags: About
 eyeCatcher: https://i.pinimg.com/originals/eb/0c/be/eb0cbe6d176fdba2af7cd5ea4e97386b.jpg
 ---
 
-# `🛠 My Stacks`
+# `🛠 Technical Experience`
 
 
 > ### Programming Languages
